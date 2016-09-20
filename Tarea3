@@ -1,0 +1,11 @@
+graph = {}
+graph["S"]={}
+graph["S"]["A"]= 6
+graph["S"]["B"]= 2
+graph["A"]={}
+graph["A"]["t"]= 1
+graph["B"]={}
+graph["B"]["A"]= 3
+graph["B"]["t"]= 5
+graph["t"]={}
+graph
